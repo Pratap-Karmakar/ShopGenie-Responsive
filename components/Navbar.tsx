@@ -11,7 +11,7 @@ import NavbarBottom from "./NavbarBottom";
 const Navbar = () => {
   return (
     <div>
-      <div className="w-full h-full border-b-[1.4px] border-b-white">
+      <div className="w-full h-full border-b-[1.4px] border-b-white sticky top-0 z-50">
         <div className="w-full bg-[#99627A] h-20  flex justify-between  items-center">
           <div className="flex navBarHover">
             <p className="font-bold text-xl hidden md:inline text-white">

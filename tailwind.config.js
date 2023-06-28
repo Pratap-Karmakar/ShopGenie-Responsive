@@ -28,7 +28,7 @@ module.exports = {
         '2xl':'1400px',
       },
       fontFamily:{
-        sans:["var(--font-open_sans)",...fontFamily.sans],
+        // sans:["var(--font-open_sans)",...fontFamily.sans],
         bodyFont:["Montserrat","sans-serif"],
         titleFont:["Inter","sans-serif"]
       }
